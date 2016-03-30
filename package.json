@@ -1,0 +1,32 @@
+{
+  "name": "taser-markdown-report",
+  "version": "1.0.0",
+  "description": "A taser reporter that formats its output in Github flavored markdown",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reactorcore-labs/taser-markdown-report.git"
+  },
+  "keywords": [
+    "taser-report"
+  ],
+  "author": "Nick Ferraro <nick.ferraro@reactorcore.com>",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/reactorcore-labs/taser-markdown-report/issues"
+  },
+  "homepage": "https://github.com/reactorcore-labs/taser-markdown-report#readme",
+  "dependencies": {
+    "lodash": "4.6.1"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "2.4.5"
+  }
+}
