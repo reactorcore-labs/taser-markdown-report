@@ -1,6 +1,6 @@
 {
   "name": "taser-markdown-report",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A taser reporter that formats its output in Github flavored markdown",
   "main": "index.js",
   "engines": {
